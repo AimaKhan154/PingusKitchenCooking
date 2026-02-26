@@ -22,6 +22,14 @@
 
 ---
 
+## Screenshot
+
+<img width="1576" height="985" alt="image" src="https://github.com/user-attachments/assets/e74ee4c0-7fcf-4e04-b8cd-6e3342a6382d" />
+<img width="1572" height="967" alt="image" src="https://github.com/user-attachments/assets/b19bcbc2-856a-4ffa-a513-ca7d602a14ee" />
+<img width="1585" height="1000" alt="image" src="https://github.com/user-attachments/assets/23ba11a3-ccb9-4de4-8fae-295eabe57653" />
+<img width="1585" height="997" alt="image" src="https://github.com/user-attachments/assets/88bd3a96-9623-4ed9-8ca4-d9befa3c2442" />
+
+---
 ## Overview
 
 Pingu's Cozy Kitchen is a single-file arcade cooking game where you play as a penguin chef. Orders appear at the top of the screen — click ingredients in the correct order and hit **SERVE** before time runs out. Miss too many orders or fail to hit the level score target and it's game over.
